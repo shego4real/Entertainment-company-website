@@ -1,12 +1,12 @@
 This is a simple project created with HTML, CSS, and JavaScript. It serves as a basic template for a web application and demonstrates how these technologies can be used together to build a functional and interactive website.
 
-Features
+Features##
 Responsive design that adapts to various screen sizes.
 Interactive elements powered by JavaScript.
 Easily customizable using CSS.
 Well-structured HTML for easy maintenance and modification.
 
-Contributing
+Contributing##
 If you would like to contribute to this project, follow these steps:
 
 Fork the project repository.
